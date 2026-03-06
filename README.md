@@ -1,1 +1,1 @@
-Note: I moved my repository into an organization during the last commit, which is why the last commit got cancelled. 
+Note: I moved my repository into an organization during the last test, which is why the last test got cancelled. 
